@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d82dbf25.chunk.css",
-    "main.js": "/static/js/main.d84b7e7c.chunk.js",
-    "main.js.map": "/static/js/main.d84b7e7c.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.8363690a.chunk.js": "/static/js/2.8363690a.chunk.js",
-    "static/js/2.8363690a.chunk.js.map": "/static/js/2.8363690a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.253ce9a220cf539e850a8de725777715.js": "/precache-manifest.253ce9a220cf539e850a8de725777715.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d82dbf25.chunk.css.map": "/static/css/main.d82dbf25.chunk.css.map",
-    "static/media/1.md": "/static/media/1.9adbf811.md",
-    "static/media/2.md": "/static/media/2.6b315d1f.md",
-    "static/media/projects.md": "/static/media/projects.b6935ecb.md",
-    "static/media/study.md": "/static/media/study.0acf3fd7.md"
+    "main.css": "/homepage/static/css/main.d82dbf25.chunk.css",
+    "main.js": "/homepage/static/js/main.5951c091.chunk.js",
+    "main.js.map": "/homepage/static/js/main.5951c091.chunk.js.map",
+    "runtime~main.js": "/homepage/static/js/runtime~main.336ecad5.js",
+    "runtime~main.js.map": "/homepage/static/js/runtime~main.336ecad5.js.map",
+    "static/js/2.bd980aae.chunk.js": "/homepage/static/js/2.bd980aae.chunk.js",
+    "static/js/2.bd980aae.chunk.js.map": "/homepage/static/js/2.bd980aae.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.0aaf1abf6bf8956a24d9d2c92de51d92.js": "/homepage/precache-manifest.0aaf1abf6bf8956a24d9d2c92de51d92.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.d82dbf25.chunk.css.map": "/homepage/static/css/main.d82dbf25.chunk.css.map",
+    "static/media/1.md": "/homepage/static/media/1.9adbf811.md",
+    "static/media/2.md": "/homepage/static/media/2.6b315d1f.md",
+    "static/media/projects.md": "/homepage/static/media/projects.b6935ecb.md",
+    "static/media/study.md": "/homepage/static/media/study.0acf3fd7.md"
   }
 }
